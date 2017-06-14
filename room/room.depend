@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1497449663 source:d:\编程学习\room\main.cpp
+	<iostream>
+	"room.h"
+
+1497449780 d:\编程学习\room\room.h
+
+1497449727 source:d:\编程学习\room\room.cpp
+	"room.h"
+	<iostream>
+
